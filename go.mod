@@ -1,4 +1,4 @@
-module github.com/chithanh12/logrus-cloudwatchlogs
+module github.com/chithanh12/logrus-cloudwatchlogs/v1
 
 go 1.13
 
